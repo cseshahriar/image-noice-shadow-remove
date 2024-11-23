@@ -1,0 +1,5 @@
+python -m venv myenv
+source myenv/bin/activate
+myenv\Scripts\activate
+pip install opencv-python opencv-python-headless numpy
+
